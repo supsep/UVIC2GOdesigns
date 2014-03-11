@@ -1,0 +1,106 @@
+div.phone
+{	
+	position: absolute;
+	z-index: 1;
+}
+
+div.tab
+{
+	position: absolute;
+	z-index: 3;
+	top: 683px;
+	left: 38px;
+	border-style: none;	
+	
+}
+
+div.alarm
+{
+	position: absolute;
+	z-index: 8;
+	top: 631px;
+	left: 322px;	
+	
+}
+
+
+div.tabCurrent
+{
+	position: absolute;
+	z-index: 2;
+	top: 683px;
+	left: 126px;	
+	
+}
+
+div.setting
+{
+	position: absolute;
+	z-index: 3;
+	top: 152px;
+	left: 335px;
+	border-style: none;	
+	
+}
+
+div.contents
+{
+    position: absolute;
+    z-index: 3;
+    top: 207px;
+    left:47px;
+
+}
+
+div.back
+{
+    position: absolute;
+    z-index: 5;
+    top: 216px;
+    left: 67px;
+    
+
+}
+
+div.next
+{
+    position: absolute;
+    z-index: 5;
+    top: 216px;
+    left: 307px;
+
+}
+
+div.classNine
+{
+    position: absolute;
+    z-index: 4;
+    top: 290px;
+    left: 100px;
+}
+
+div.classTwelve
+{
+    position: absolute;
+    z-index: 4;
+    top: 482px;
+    left: 100px;
+}
+
+div.classTwo
+{
+    position: absolute;
+    z-index: 4;
+    top: 550px;
+    left: 100px;
+}
+
+div.backButton
+{
+    position: absolute;
+	z-index: 3;
+	top: 156px;
+	left: 40px;
+	border-style: none;	
+    
+}

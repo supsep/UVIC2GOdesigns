@@ -1,0 +1,92 @@
+div.phone
+{	
+	position: absolute;
+	z-index: 1;
+}
+
+div.tab
+{
+	position: absolute;
+	z-index: 3;
+	top: 683px;
+	left: 38px;
+	border-style: none;	
+	
+}
+
+div.tabCurrent
+{
+	position: absolute;
+	z-index: 2;
+	top: 683px;
+	left: 215px;
+	
+}
+
+div.setting
+{
+	position: absolute;
+	z-index: 3;
+	top: 152px;
+	left: 335px;
+	border-style: none;	
+	
+}
+
+div.academicTab
+{
+	position: absolute;
+	z-index: 4;
+	top: 220px;
+	left: 37px;
+	border-style: none;	
+	
+}
+
+div.foodTab
+{
+	position: absolute;
+	z-index: 4;
+	top: 375px;
+	left: 37px;
+	border-style: none;	
+	
+}
+
+div.otherTab
+{
+	position: absolute;
+	z-index: 4;
+	top: 530px;
+	left: 37px;
+	border-style: none;	
+	
+}
+
+div.contents
+{
+    position: absolute;
+    z-index: 3;
+    top: 207px;
+    left:61px;
+
+}
+
+div.buildingName
+{
+    position: absolute;
+    z-index: 4;
+    top: 225px;
+    left:75px;
+
+}
+
+div.back
+{
+	position: absolute;
+	z-index: 3;
+	top: 156px;
+	left: 41px;
+	border-style: none;	
+	
+}

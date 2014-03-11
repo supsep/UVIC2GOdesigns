@@ -1,0 +1,89 @@
+div.phone
+{	
+	position: absolute;
+	z-index: 1;
+}
+
+div.tab
+{
+	position: absolute;
+	z-index: 3;
+	top: 683px;
+	left: 38px;
+	border-style: none;	
+	
+}
+
+div.tabCurrent
+{
+	position: absolute;
+	z-index: 2;
+	top: 683px;
+	left: 295px;	
+	
+}
+
+div.setting
+{
+	position: absolute;
+	z-index: 3;
+	top: 152px;
+	left: 335px;
+	border-style: none;	
+	
+}
+
+div.toggle
+{
+	position: absolute;
+	z-index: 3;
+	top: 635px;
+	left: 208px;
+	border-style: none;	
+	
+}
+
+
+div.mapInterface
+{
+    position: absolute;
+    z-index: 2;
+    top: 195px;
+    left:37px;
+
+}
+
+div.keyboard
+{
+    position: absolute;
+    z-index: 6;
+    top: 510px;
+    left:37px;
+
+}
+
+div.searchBar
+{
+    position: absolute;
+    z-index: 4;
+    top: 200px;
+    left:47px;
+
+}
+div.searchBlocker
+{
+    position: absolute;
+    z-index: 7;
+    top: 200px;
+    left:47px;
+
+}
+
+div.tool 
+{
+    position: absolute;
+    z-index: 5;
+    top: 200px;
+    left:335px;
+
+}

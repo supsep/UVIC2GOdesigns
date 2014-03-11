@@ -1,0 +1,14 @@
+div.phone
+{	
+	position: absolute;
+	z-index: 2;
+}
+
+
+div.load
+{	
+	position: absolute;
+	z-index: 3;
+    top: 350px;
+    left:50px;
+}

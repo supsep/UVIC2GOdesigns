@@ -1,0 +1,35 @@
+div.phone
+{	
+	position: absolute;
+	z-index: 1;
+}
+
+div.tab
+{
+	position: absolute;
+	z-index: 3;
+	top: 683px;
+	left: 38px;
+	border-style: none;	
+	
+}
+
+div.tabCurrent
+{
+	position: absolute;
+	z-index: 2;
+	top: 683px;
+	left: 38px;	
+	
+}
+
+div.setting
+{
+	position: absolute;
+	z-index: 3;
+	top: 152px;
+	left: 335px;
+	border-style: none;	
+	
+}
+

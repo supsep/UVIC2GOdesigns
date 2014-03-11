@@ -1,0 +1,72 @@
+div.phone
+{	
+	position: absolute;
+	z-index: 1;
+}
+
+div.tab
+{
+	position: absolute;
+	z-index: 3;
+	top: 683px;
+	left: 38px;
+	border-style: none;	
+	
+}
+
+div.tabCurrent
+{
+	position: absolute;
+	z-index: 2;
+	top: 683px;
+	left: 38px;	
+	
+}
+
+div.setting
+{
+	position: absolute;
+	z-index: 3;
+	top: 152px;
+	left: 335px;
+	border-style: none;	
+	
+}
+
+div.back
+{
+	position: absolute;
+	z-index: 3;
+	top: 156px;
+	left: 41px;
+	border-style: none;	
+	
+}
+
+div.contents
+{
+    position: absolute;
+    z-index: 3;
+    top: 207px;
+    left:47px;
+
+}
+
+div.bus_route
+{
+    position: absolute;
+    z-index: 4;
+    top: 225px;
+    left:70px;
+
+}
+
+div.bus_time
+{
+    position: absolute;
+    z-index: 4;
+    top: 235px;
+    left:50px;
+
+}
+
